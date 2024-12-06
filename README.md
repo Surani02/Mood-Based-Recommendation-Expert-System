@@ -22,7 +22,7 @@ The **Mood-Based Recommendation Expert System** is a Python-based application th
    - Users can view alternative suggestions, which are ranked by relevance.  
 
 ## Technologies Used  
-- **Python:** Core programming language.  
+- **Python 3.9:** Core programming language.  
 - **Experta Framework:** For rule-based reasoning and decision-making.  
 - **Tkinter:** For creating a graphical user interface.  
 
@@ -55,6 +55,3 @@ Contributions are welcome! Feel free to fork the repository, make changes, and s
 
 ## License  
 This project is licensed under the MIT License.  
-
----  
-This README provides a complete overview of the system, its functionality, and usage instructions to help others understand and use the project effectively.
